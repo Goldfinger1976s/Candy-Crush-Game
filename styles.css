@@ -1,0 +1,14 @@
+/* Candy Crush css */
+
+.grid {
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: lightblue;
+}
+
+.grid div {
+  height: 70px;
+  width: 70px;
+}
